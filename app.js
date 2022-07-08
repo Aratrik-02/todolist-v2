@@ -7,7 +7,7 @@ const mongoose = require("mongoose");
 const app = express();
 const _ = require("lodash");
 
-mongoose.connect("mongodb+srv://admin-aratrik:bdroZShNksUVxBcG@cluster0.zhojb.mongodb.net/todolistDB");
+mongoose.connect("mongodb+srv://admin-aratrik:<Password>@cluster0.zhojb.mongodb.net/todolistDB");
 
 app.set('view engine', 'ejs');
 
