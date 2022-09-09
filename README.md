@@ -1,5 +1,5 @@
 # todolist-v2_using_mongo-db_express
-## A fully functional todo-list app to keep track of your day to day work with integrated back-end
+A fully functional todo-list app to keep track of your day to day work with integrated back-end
 
 # The website
 
